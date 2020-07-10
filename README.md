@@ -1,5 +1,9 @@
-### Hi there 👋
+## 喔，我的好伙计，你看到了这里。
+你好，这里是 MoTIEdsuNe, 您可以叫我为 松仁 或 狸。  
+正如每一个擅长发现的人一样，您发现了这里。但很不幸的是，您很少能在这里找到些有趣的东西。  
+您能看到的 repo ，大概都是残缺的内容。这并不是讲我不更新，而是已经被我隐藏了起来。  
 
+那么，祝您玩的开心。
 <!--
 **MoTIEdsuNe/MoTIEdsuNe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
